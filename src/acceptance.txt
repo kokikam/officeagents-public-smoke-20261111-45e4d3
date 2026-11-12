@@ -1,0 +1,1 @@
+Synthetic OfficeAgents acceptance fixture. No production data.
